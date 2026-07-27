@@ -1,0 +1,10 @@
+DATA QUALITY SUMMARY - Day 1
+========================================
+
+Total datasets loaded: 10
+
+Missing value anomalies:
+- monthly_sip_inflows: missing values in ['yoy_growth_pct']
+
+AMFI code validation:
+- All AMFI codes matched successfully between fund_master and nav_history.
